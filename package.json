@@ -15,7 +15,7 @@
     "@wdio/mocha-framework": "^6.11.0",
     "@wdio/sync": "^6.11.0",
     "geckodriver": "^1.22.1",
-    "wdio-geckodriver-service": "^1.1.1"
+    "wdio-geckodriver-service": "^1.1.2"
   },
   "dependencies": {}
 }
